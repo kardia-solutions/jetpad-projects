@@ -1,0 +1,40 @@
+[
+  {
+    "name": "KDX",
+    "avatar": "https://via.placeholder.com/120x120/000",
+    "banner": "https://via.placeholder.com/1440x180",
+    "id": "1",
+    "description":
+      "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
+    "totalRaise": "100000",
+    "totalOffering": "100000",
+    "descriptionHTML":
+      "<p>KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases</p>",
+    "whitelistStartTime": 1655102211,
+    "whitelistEndTime": 1655105600,
+    "startTime": 1655368800,
+    "endTime": 1655369100,
+    "harvestTime": 1655369400,
+    "idoContract": "0xEF315918794447E327143aDe6C7feb68967002Fa",
+    "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
+    "offerToken": {
+      "address": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
+      "name": "KAIDex Token",
+      "symbol": "KDX",
+      "decimals": 18,
+      "isNative": false,
+      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xc4a4ffa90379694b477b04ba66a5fecce5cddd25.png"
+    },
+    "paymentTokenAddress": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
+    "paymentToken": {
+      "address": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
+      "name": "USDT_TEST",
+      "symbol": "USDT_TEST",
+      "decimals": 6,
+      "isNative": false,
+      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
+    },
+    "initialMarketCap": "1000000",
+    "initialTokenCirculation": "1000000000"
+  }
+]
