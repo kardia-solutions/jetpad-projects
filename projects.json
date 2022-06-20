@@ -37,6 +37,7 @@
     "initialMarketCap": "1000000",
     "initialTokenCirculation": "1000000000",
     "isVoting": false,
-    "votingURL": ""
+    "votingURL": "",
+    "passVoting": true
   }
 ]
