@@ -80,5 +80,46 @@
     "isVoting": true,
     "votingURL": "https://kaisnapshot.com/#/beco.kai/proposal/QmdpGo5JMs4vsCh5umkVMVUK6iwxUPMmhy8XHqsGWnj8Yd",
     "passVoting": false
+  },
+  {
+    "name": "IDO with KAI",
+    "avatar": "https://via.placeholder.com/120x120/000",
+    "banner": "https://via.placeholder.com/1440x180",
+    "id": "3",
+    "description":
+      "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
+    "totalRaise": "1000",
+    "totalOffering": "100000",
+    "descriptionHTML":
+      "<p>KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases</p>",
+    "snapshotStartTime": 1659083400,
+    "snapshotEndTime": 1659087000,
+    "startTime": 1659083400,
+    "endTime": 1659087000,
+    "harvestTime": 1659087000,
+    "idoContract": "0xC75fFBe7bA05552295D10EB5703f3c7BaDC45b26",
+    "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
+    "offerToken": {
+      "address": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
+      "name": "KAIDex Token",
+      "symbol": "KDX",
+      "decimals": 18,
+      "isNative": false,
+      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xc4a4ffa90379694b477b04ba66a5fecce5cddd25.png"
+    },
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "paymentToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "KAI",
+      "symbol": "KAI",
+      "decimals": 18,
+      "isNative": true,
+      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d.png"
+    },
+    "initialMarketCap": "1000000",
+    "initialTokenCirculation": "1000000000",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/beco.kai/proposal/QmdpGo5JMs4vsCh5umkVMVUK6iwxUPMmhy8XHqsGWnj8Yd",
+    "passVoting": true
   }
 ]
