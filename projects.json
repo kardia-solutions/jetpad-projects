@@ -92,12 +92,12 @@
     "totalOffering": "100000",
     "descriptionHTML":
       "<p>KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases</p>",
-    "snapshotStartTime": 1659083400,
-    "snapshotEndTime": 1659087000,
-    "startTime": 1659083400,
-    "endTime": 1659087000,
-    "harvestTime": 1659087000,
-    "idoContract": "0x7260C7353d2F5857E18ff5caEFB25CcEF97f6291",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 1,
+    "startTime": 1659088800,
+    "endTime": 1659092400,
+    "harvestTime": 1659092400,
+    "idoContract": "0x0559EC0cd24C8648Fa7f5F071AFEBf170cF4d619",
     "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
     "offerToken": {
       "address": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
