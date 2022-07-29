@@ -58,23 +58,7 @@
     "harvestTime": 1655369400,
     "idoContract": "0xEF315918794447E327143aDe6C7feb68967002Fa",
     "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
-    "offerToken": {
-      "address": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
-      "name": "KAIDex Token",
-      "symbol": "KDX",
-      "decimals": 18,
-      "isNative": false,
-      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xc4a4ffa90379694b477b04ba66a5fecce5cddd25.png"
-    },
     "paymentTokenAddress": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
-    "paymentToken": {
-      "address": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
-      "name": "USDT_TEST",
-      "symbol": "USDT_TEST",
-      "decimals": 6,
-      "isNative": false,
-      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
-    },
     "initialMarketCap": "1000000",
     "initialTokenCirculation": "1000000000",
     "isVoting": true,
@@ -99,23 +83,7 @@
     "harvestTime": 1659090600,
     "idoContract": "0x9261187e7C7524731b86BB8242f22bd939A5FD80",
     "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
-    "offerToken": {
-      "address": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
-      "name": "KAIDex Token",
-      "symbol": "KDX",
-      "decimals": 18,
-      "isNative": false,
-      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xc4a4ffa90379694b477b04ba66a5fecce5cddd25.png"
-    },
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "paymentToken": {
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "KAI",
-      "symbol": "KAI",
-      "decimals": 18,
-      "isNative": true,
-      "icon": "https://res.cloudinary.com/kai-dex/image/upload/token-logos/0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d.png"
-    },
     "initialMarketCap": "1000000",
     "initialTokenCirculation": "1000000000",
     "isVoting": false,
