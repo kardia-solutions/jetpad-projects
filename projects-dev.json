@@ -1,49 +1,9 @@
 [
   {
-    "name": "KDX",
-    "avatar": "https://via.placeholder.com/120x120/000",
-    "banner": "https://via.placeholder.com/1440x180",
-    "id": "1",
-    "description":
-      "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
-    "totalRaise": "100000",
-    "totalOffering": "100000",
-    "descriptionHTML":
-      "<p>KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases</p>",
-    "snapshotStartTime": 1655102211,
-    "snapshotEndTime": 1655105600,
-    "startTime": 1659068100,
-    "endTime": 1659086100,
-    "harvestTime": 1659086100,
-    "idoContract": "0xc3fb6cB854D026D18e02dB6857cF9C35296FDCea",
-    "offerTokenAddress": "0xc4A4fFA90379694B477B04BA66A5feCce5CDdd25",
-    "offerToken": {
-      "address": "0xc4A4fFA90379694B477B04BA66A5feCce5CDdd25",
-      "name": "KAIDex Token",
-      "symbol": "KDX",
-      "decimals": 18,
-      "isNative": false,
-      "icon": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xc4A4fFA90379694B477B04BA66A5feCce5CDdd25.png"
-    },
-    "paymentTokenAddress": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
-    "paymentToken": {
-      "address": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
-      "name": "USDT_TEST",
-      "symbol": "USDT_TEST",
-      "decimals": 6,
-      "isNative": false,
-      "icon": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b.png"
-    },
-    "initialMarketCap": "1000000",
-    "initialTokenCirculation": "1000000000",
-    "isVoting": false,
-    "votingURL": ""
-  },
-  {
     "name": "KDX Voting",
     "avatar": "https://via.placeholder.com/120x120/000",
     "banner": "https://via.placeholder.com/1440x180",
-    "id": "2",
+    "id": "1",
     "description":
       "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
     "totalRaise": "100000",
@@ -67,7 +27,7 @@
     "name": "IDO with KAI",
     "avatar": "https://via.placeholder.com/120x120/000",
     "banner": "https://via.placeholder.com/1440x180",
-    "id": "3",
+    "id": "2",
     "description":
       "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
     "totalRaise": "1000",
@@ -80,6 +40,30 @@
     "endTime": 1659090600,
     "harvestTime": 1659090600,
     "idoContract": "0x9261187e7C7524731b86BB8242f22bd939A5FD80",
+    "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "1000000",
+    "initialTokenCirculation": "1000000000",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/beco.kai/proposal/QmdpGo5JMs4vsCh5umkVMVUK6iwxUPMmhy8XHqsGWnj8Yd"
+  },
+  {
+    "name": "IDO in future",
+    "avatar": "https://via.placeholder.com/120x120/000",
+    "banner": "https://via.placeholder.com/1440x180",
+    "id": "3",
+    "description":
+      "KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases",
+    "totalRaise": "1000",
+    "totalOffering": "100000",
+    "descriptionHTML":
+      "<p>KAIDex is the first AMM on KardiaChain. With v3 upgrade introduce KDX token for many usecases</p>",
+    "snapshotStartTime": 1658830963,
+    "snapshotEndTime": 1659009642,
+    "startTime": 1664582400,
+    "endTime": 1666224000,
+    "harvestTime": 1666224000,
+    "idoContract": "0x476c704525f26bd1C4A29e397C5Dfda04f15Fa38",
     "offerTokenAddress": "0xc4a4ffa90379694b477b04ba66a5fecce5cddd25",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
     "initialMarketCap": "1000000",
