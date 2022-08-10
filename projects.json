@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Aboat Entertainment",
+    "avatar": "https://via.placeholder.com/120x120/000",
+    "banner": "https://via.placeholder.com/1440x180",
+    "id": "1",
+    "description":
+      "Online Entertainment Hub and Content Aggregator on Blockchain to bring new Monetization models to consumers & suppliers",
+    "totalRaise": "1000",
+    "totalOffering": "100000",
+    "descriptionHTML":
+      "<p>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul><li><p>Integrated monetization (reward system) for creators and consumers</p></li><li><p>Staking-based subscription model</p></li><li><p>Creator NFTs to sell different content rights at different content stages</p></li><li><p>NFT Marketplace</p></li><li><p>Dual reward system to make it possible for creators to submit their own tokens as rewards</p></li><li><p>Creator Ranking System to incentivize the discovery of newcomers</p></li><li><p>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</p></li><li><p>Entertainment Platforms like Talkaboat, our Podcast Platform</p></li></ul>",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 1,
+    "startTime": 0,
+    "endTime": 0,
+    "harvestTime": 0,
+    "idoContract": "",
+    "offerTokenAddress": "",
+    "paymentTokenAddress": "",
+    "initialMarketCap": "812250",
+    "initialTokenCirculation": "1000000000",
+    "isVoting": true,
+    "votingURL": "https://kaisnapshot.com/#/beco.kai/proposal/QmdpGo5JMs4vsCh5umkVMVUK6iwxUPMmhy8XHqsGWnj8Yd"
+  }
+]
