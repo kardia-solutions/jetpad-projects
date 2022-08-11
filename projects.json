@@ -2,7 +2,7 @@
   {
     "name": "KAIDEX",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/banner/kdx-ido-mobile.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
     "id": "1",
     "description":
       "KAIDEX V3 is #1 Automated Market-making (AMM) Decentralized Exchange (DEX) on KardiaChain, a leading blockchain ecosystem in South East Asia. KAIDEX V3 is designed to supercharge Total Value Locked (TVL) on the KardiaChain Network and strives to be community-focused organization.",
@@ -21,6 +21,7 @@
     "initialTokenCirculation": "4000000",
     "isVoting": false,
     "customURL": "/kdx",
+    "hideProgress": true,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
   },
   {
