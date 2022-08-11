@@ -1,9 +1,34 @@
 [
   {
-    "name": "Aboat Entertainment",
+    "name": "KAIDEX",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
     "id": "1",
+    "description":
+      "KAIDEX V3 is #1 Automated Market-making (AMM) Decentralized Exchange (DEX) on KardiaChain, a leading blockchain ecosystem in South East Asia. KAIDEX V3 is designed to supercharge Total Value Locked (TVL) on the KardiaChain Network and strives to be community-focused organization. Anyone providing liquidity on KAIDEX is rewarded with $KDX, a brand new governance token that gives holders control over the platform's future growth and development.",
+    "totalRaise": "19000000",
+    "totalOffering": "4000000",
+    "descriptionHTML":
+      "<p>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul><li><p>Integrated monetization (reward system) for creators and consumers</p></li><li><p>Staking-based subscription model</p></li><li><p>Creator NFTs to sell different content rights at different content stages</p></li><li><p>NFT Marketplace</p></li><li><p>Dual reward system to make it possible for creators to submit their own tokens as rewards</p></li><li><p>Creator Ranking System to incentivize the discovery of newcomers</p></li><li><p>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</p></li><li><p>Entertainment Platforms like Talkaboat, our Podcast Platform</p></li></ul>",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 1658577600,
+    "endTime": 1658664000,
+    "harvestTime": 1658667600,
+    "idoContract": "0xf82c3C4F7b57430f4bCCFcA624F2BfB3b9175787",
+    "offerTokenAddress": "0xE9caC5d99375d02Fb506bE890011B2F57fC614E1",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "812250",
+    "initialTokenCirculation": "4000000",
+    "isVoting": false,
+    "customURL": "/kdx",
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
+  },
+  {
+    "name": "Aboat Entertainment",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
+    "id": "2",
     "description":
       "Online Entertainment Hub and Content Aggregator on Blockchain to bring new Monetization models to consumers & suppliers",
     "totalRaise": "1000",
