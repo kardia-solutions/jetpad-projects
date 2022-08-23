@@ -18,7 +18,7 @@
     "idoContract": "0x86A20e321Db0B7cfCf1d3569997d373C0fc05062",
     "offerTokenAddress": "0x186B1B6CE63932a34FAa8D08bB11B775591Fd6f4",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "187500",
+    "initialMarketCap": "135000",
     "initialTokenCirculation": "7500000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
