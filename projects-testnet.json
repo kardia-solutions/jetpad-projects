@@ -6,20 +6,20 @@
     "id": "2",
     "description":
       "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
-    "totalRaise": "15000000",
-    "totalOffering": "7500000000",
+    "totalRaise": "150000",
+    "totalOffering": "75000000",
     "descriptionHTML":
       "<p class='my-[12px]'>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul class='list-disc list-inside'><li>Integrated monetization (reward system) for creators and consumers</li><li>Staking-based subscription model</li><li>Creator NFTs to sell different content rights at different content stages</li><li>NFT Marketplace</li><li>Dual reward system to make it possible for creators to submit their own tokens as rewards</li><li>Creator Ranking System to incentivize the discovery of newcomers</li><li>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</li><li>Entertainment Platforms like Talkaboat, our Podcast Platform</li></ul><p class='my-[12px]'>The first product of Aboat Entertainment is a podcast platform called Talkaboat, which is in development for more than a year now. Just recently we successfully started the alpha test on KardiaChain Testnet to ensure a seamless start on Mainnet. We also released the alpha of our mobile app on Google Play Store and Apple App Store to bring you the listening and earning experience wherever you are.</p><p>You can check the technical roadmap <a href='https://github.com/orgs/Talkaboat/projects/8'>here</a> which is regularly updated.</p><p>As for the token, we decided to set a relatively high maximum amount of 1,000,000,000,000 to make the reward system feel psychologically more rewarding.</p><p>40% of these tokens will be minted over the next 30 years from our staking system.</p><p>For more information about our token and it&rsquo;s tokenomics you can visit <a href='https://docs.aboat-entertainment.com/aboat-token/the-token'>our document</a>.</p>",
     "snapshotStartTime": 1661400843,
     "snapshotEndTime": 1661400856,
-    "startTime": 1661401800,
-    "endTime": 1661403600,
-    "harvestTime": 1661403600,
-    "idoContract": "0xEAbd4203d3b3794D336441E4Ca6A5d97005E9A70",
-    "offerTokenAddress": "0xfe39B7a93F944108741AafBc4ea4054CAFb29B29",
+    "startTime": 1661412000,
+    "endTime": 1661412900,
+    "harvestTime": 1661413200,
+    "idoContract": "0x253b4Ebe58eDd01956e9aD24f2BBF179b114b10F",
+    "offerTokenAddress": "0x85B5de5a36375f923f4Ae83d87Bfc8cbd61FD72F",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
     "initialMarketCap": "135000",
-    "initialTokenCirculation": "7500000000",
+    "initialTokenCirculation": "75000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
   }
