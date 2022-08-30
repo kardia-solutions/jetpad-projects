@@ -22,5 +22,29 @@
     "initialTokenCirculation": "7500000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
+  },
+  {
+    "name": "gINFO",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/gINFO.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/gINFO.png",
+    "id": "2",
+    "description":
+      "As a winner of the KardiaChain Pioneer Program, kardiainfo.com is about to launch a huge update which will introduce a new token - governance INFO (gINFO). gINFO and INFO will create a mutually beneficial symbiosis where the holders of both tokens benefit the most.",
+    "totalRaise": "",
+    "totalOffering": "",
+    "descriptionHTML":
+      "<p><strong>Kardia info</strong>&nbsp;is a dApp on the KardiaChain network that provides services targeted at both users and businesses.</p><p class='my-[12px]'><strong>Services such as:</strong></p><ul class='list-disc list-inside'><li>The on-chain oracle used by dApps on the KAI network</li><li>The mini-game franchise</li><li>Tokens Dashboard (CMC for KAI)</li><li>Telegram Bot</li><li>Staking (including staking as a service for other dApps)</li><li>Farming</li></ul><p>&nbsp;</p><p class='my-[12px]'>All of these services have been quite successful over the time&nbsp;<strong>Kardia info</strong>&nbsp;and its token&nbsp;<strong>INFO</strong>&nbsp;existed.</p><p class='my-[12px]'>Now it&rsquo;s time to introduce a huge update to the platform -&nbsp;<strong>governance</strong>.</p><p class='my-[12px]'>Governance allows users to take control over the decision making process of a dApp through generating ideas and voting on their implementation.</p><p class='my-[12px]'>Kardia info will do this with the introduction of the&nbsp;<strong>gINFO</strong>&nbsp;(governance INFO) token which will have its own unique use case and will form a symbiosis with the already existing INFO token making holding both of them more attractive.</p><p>&nbsp;</p><p class='my-[12px]'><strong>With gINFO the following services will be introduced:</strong></p><p><strong>Treasury</strong>:&nbsp;A fund that gINFO holders vote on how to use with the main goal of burning as much INFO and gINFO as possible.</p><p><strong>Bonds</strong>:&nbsp;A means of filling up the treasury and creating protocol owned liquidity.</p><p><strong>Game profit sharing</strong>:&nbsp;gINFO holders can stake KAI or INFO to profit from the highly lucrative mini-games on the Kardia info website.</p><p><strong>gINFO Locker</strong>:&nbsp;A way to earn weak-hand tax and participate in the governance of Kardia info.</p><p><strong>Decentralised on-chain oracle mining</strong>:&nbsp;ability to receive rewards for maintaining the kardia info oracle making it more secure. (later down the line).</p><p class='my-[12px]'>Making Kardia info more decentralised and community owned, effectively turning it into a Decentralised Autonomous Organisation (DAO).</p><p>________________</p><p class='my-[12px]'>The goal for the gINFO&nbsp;IDO&nbsp;is to raise $150,000 worth of KAI which will be split between the treasury and the initial liquidity.</p>",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 0,
+    "endTime": 0,
+    "harvestTime": 0,
+    "idoContract": "",
+    "offerTokenAddress": "",
+    "paymentTokenAddress": "",
+    "initialMarketCap": "",
+    "initialTokenCirculation": "",
+    "isVoting": true,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmX9pdp7XpMPVV8djyeyxJCRb1kyKSkSXj8qg7QPxWZSeH"
   }
 ]
