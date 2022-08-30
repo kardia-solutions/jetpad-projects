@@ -3,6 +3,7 @@
     "name": "KAIDEX",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
     "id": "1",
     "description":
       "KAIDEX V3 is #1 Automated Market-making (AMM) Decentralized Exchange (DEX) on KardiaChain, a leading blockchain ecosystem in South East Asia. KAIDEX V3 is designed to supercharge Total Value Locked (TVL) on the KardiaChain Network and strives to be community-focused organization.",
@@ -28,6 +29,7 @@
     "name": "Aboat Entertainment",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
     "id": "2",
     "description":
       "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
@@ -52,6 +54,7 @@
     "name": "gINFO",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/gINFO.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/gINFO.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/gINFO.png",
     "id": "3",
     "description":
       "As a winner of the KardiaChain Pioneer Program, kardiainfo.com is about to launch a huge update which will introduce a new token - governance INFO (gINFO). gINFO and INFO will create a mutually beneficial symbiosis where the holders of both tokens benefit the most.",
