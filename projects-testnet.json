@@ -47,6 +47,20 @@
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
     "withVesting": true,
-    "vesting": "In 12 months"
+    "vesting": "In 12 months",
+    "vestingSchedules": [
+      {
+        "vestingTime": "1662973800",
+        "vestingAllocation": "5000"
+      },
+      {
+        "vestingTime": "1662974400",
+        "vestingAllocation": "3000"
+      },
+      {
+        "vestingTime": "1662975000",
+        "vestingAllocation": "2000"
+      }
+    ]
   }
 ]
