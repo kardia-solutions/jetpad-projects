@@ -46,6 +46,7 @@
     "initialTokenCirculation": "75000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
-    "withVesting": true
+    "withVesting": true,
+    "vesting": "In 12 months"
   }
 ]
