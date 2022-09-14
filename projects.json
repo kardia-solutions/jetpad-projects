@@ -74,5 +74,29 @@
     "initialTokenCirculation": "",
     "isVoting": true,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmX9pdp7XpMPVV8djyeyxJCRb1kyKSkSXj8qg7QPxWZSeH"
+  },
+  {
+    "name": "AMETA",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/ameta.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta_small.png",
+    "id": "4",
+    "description": "Ameta is a farming blockchain-based game created by a strong DEV team from Alphaway who have been experienced in creating multiple successful traditional games. Players will be able to participate in exciting activities such as cleaning up the old farm, building a new farm to grow crops, raising livestock as well as unlocking buildings and other upgrades.",
+    "totalRaise": "",
+    "totalOffering": "",
+    "descriptionHTML":
+      "",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 0,
+    "endTime": 0,
+    "harvestTime": 0,
+    "idoContract": "",
+    "offerTokenAddress": "",
+    "paymentTokenAddress": "",
+    "initialMarketCap": "",
+    "initialTokenCirculation": "",
+    "isVoting": true,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu"
   }
 ]
