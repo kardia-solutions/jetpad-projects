@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Test INO",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
+    "id": "1",
+    "description":
+      "123",
+    "totalRaise": "5000",
+    "totalOffering": "10000",
+    "descriptionHTML":
+      "123",
+    "snapshotStartTime": 1662957185,
+    "snapshotEndTime": 1662957203,
+    "startTime": 1663041000,
+    "endTime": 1663044600,
+    "harvestTime": 1663044600,
+    "inoContract": "0xc80C5751DbCBBb3D5d51d3cC7813a2074Faa6c2B",
+    "nftContract": "0x16badf2DEf4fD5fF13d1957F5B6F0429495b6fbF",
+    "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "135000",
+    "initialTokenCirculation": "75000000",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
+    "withVesting": false
+  }
+]
