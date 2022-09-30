@@ -1,10 +1,36 @@
 [
   {
+    "name": "KAIDEX",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "id": "1",
+    "description":
+      "KAIDEX V3 is #1 Automated Market-making (AMM) Decentralized Exchange (DEX) on KardiaChain, a leading blockchain ecosystem in South East Asia. KAIDEX V3 is designed to supercharge Total Value Locked (TVL) on the KardiaChain Network and strives to be community-focused organization.",
+    "totalRaise": "19000000",
+    "totalOffering": "4000000",
+    "descriptionHTML": "",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 1658577600,
+    "endTime": 1658664000,
+    "harvestTime": 1658667600,
+    "idoContract": "0xf82c3C4F7b57430f4bCCFcA624F2BfB3b9175787",
+    "offerTokenAddress": "0xE9caC5d99375d02Fb506bE890011B2F57fC614E1",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "812250",
+    "initialTokenCirculation": "4000000",
+    "isVoting": false,
+    "customURL": "/kdx",
+    "hideProgress": true,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
+  },
+  {
     "name": "Aboat Entertainment",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
     "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
-    "id": "1",
+    "id": "2",
     "description":
       "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
     "totalRaise": "15000000",
@@ -16,7 +42,7 @@
     "startTime": 1661860800,
     "endTime": 1661947200,
     "harvestTime": 1661954400,
-    "idoContract": "0x86A20e321Db0B7cfCf1d3569997d373C0fc05062",
+    "idoContract": "0x50C5565E383E17ED6ea956795a4d014B86b048A1",
     "offerTokenAddress": "0x186B1B6CE63932a34FAa8D08bB11B775591Fd6f4",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
     "initialMarketCap": "135000",
@@ -29,7 +55,7 @@
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/gINFO.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/gINFO.png",
     "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/gINFO_small.png",
-    "id": "2",
+    "id": "3",
     "description":
       "As a winner of the KardiaChain Pioneer Program, kardiainfo.com is about to launch a huge update which will introduce a new token - governance INFO (gINFO). gINFO and INFO will create a mutually beneficial symbiosis where the holders of both tokens benefit the most.",
     "totalRaise": "",
@@ -48,5 +74,29 @@
     "initialTokenCirculation": "",
     "isVoting": true,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmX9pdp7XpMPVV8djyeyxJCRb1kyKSkSXj8qg7QPxWZSeH"
+  },
+  {
+    "name": "AMETA",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/ameta.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta_small.png",
+    "id": "4",
+    "description": "Ameta is a farming blockchain-based game created by a strong DEV team from Alphaway who have been experienced in creating multiple successful traditional games. Players will be able to participate in exciting activities such as cleaning up the old farm, building a new farm to grow crops, raising livestock as well as unlocking buildings and other upgrades.",
+    "totalRaise": "12500000",
+    "totalOffering": "9090909",
+    "descriptionHTML":
+      "<p class='my-[12px]'>AMETA &ndash; Gateway to farming metaverse</p><p class='my-[12px]'>Ameta is a farming blockchain-based game created by a strong DEV team from Alphaway who have been experienced in creating multiple successful traditional games. Players will be able to participate in exciting activities such as cleaning up the old farm, building a new farm to grow crops, raising livestock as well as unlocking buildings and other upgrades.</p><p class='my-[12px]'>With a unique combination of attractive elements, task systems, and items of the traditional games and blockchain-based game platform, Ameta is confident in bringing a blend of real life and a virtual world for all. This is home for all gamers to connect and make friends through our jam-packed activities in game.</p><p class='my-[12px]'>Key features:</p><ul class='list-disc list-inside'><li>Free to play</li><li>Inclusive GameFi and SocialFi metaverse</li><li>Exciting gameplay</li><li>Virtual Reality</li><li>Socialization</li><li>Personalization</li><li>Create to earn</li></ul><p>&nbsp;</p><p>Product overview:</p><ul class='list-disc list-inside'><li>Experience the metaverse world from every dimension including farming, fishing, trading, renting, PVE co-op, Fun PVP events.</li><li>Fishing rods NFTs ecosystem</li><li>Real-time simulation (weather, seasons)</li><li>Customize personal character, mood, and energy</li><li>NFT tools</li><li>NFT skins and rewards</li><li>NFT rewards</li></ul><p>&nbsp;</p><p>To encourage traditional players to join and benefit from blockchain, AMETA Tokenomics focuses on solving 2 main problems:</p><ul><li>Remove all technical barriers for traditional users to own APLUS tokens.</li><li>Buy NFT items directly from fiat money.</li><li>Token Name: Ameta Token</li><li>Ticker: APLUS</li><li>Total Supply: 1.000.000.000</li></ul><p>&nbsp;</p><p>AMETA aims to deploy APLUS token on multi-chain which includes: Kardiachain, BNB Chain &amp; OKC with the support of Multichain Protocol to help users have the easiest cross-chain interactions. Among project partners and backers such names as AWS, Telesign, KAI, ONUS, OKC, Pinksale, LuxPaD, Gagarin etc.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "snapshotStartTime": 1664539200,
+    "snapshotEndTime": 1665057600,
+    "startTime": 1665061200,
+    "endTime": 1665144000,
+    "harvestTime": 1665151200,
+    "idoContract": "0xDC2b6e9F28b545555844Fff0EDd8d71f939E034d",
+    "offerTokenAddress": "0xD2F370d18C93C661416883a4D556588B8366fDB7",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "100000",
+    "initialTokenCirculation": "9090909",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu"
   }
 ]
