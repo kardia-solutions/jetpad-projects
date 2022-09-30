@@ -98,5 +98,28 @@
     "initialTokenCirculation": "9090909",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu"
+  },
+  {
+    "name": "SHOPDI",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/shopdi-ido/logo/shopdi.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "id": "5",
+    "description": "Shopdi is a new-generation e-commerce platform specializing in authentic and limited-edition merchandise. Through the Hidden Price mechanism, the selling price of products on Shopdi is determined by the number of interested people.",
+    "totalRaise": "",
+    "totalOffering": "",
+    "descriptionHTML":"",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 0,
+    "endTime": 0,
+    "harvestTime": 0,
+    "idoContract": "",
+    "offerTokenAddress": "",
+    "paymentTokenAddress": "",
+    "initialMarketCap": "",
+    "initialTokenCirculation": "",
+    "isVoting": true,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu"
   }
 ]
