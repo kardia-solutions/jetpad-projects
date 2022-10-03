@@ -25,6 +25,13 @@
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
     "withVesting": false,
-    "inoType": 0
+    "inoType": 0,
+    "imageField": "avatar",
+    "metadata": [
+      {
+        "label": "Name",
+        "field": "name"
+      }
+    ]
   }
 ]
