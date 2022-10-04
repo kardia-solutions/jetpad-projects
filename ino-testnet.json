@@ -27,6 +27,7 @@
     "withVesting": false,
     "inoType": 0,
     "imageField": "image",
+    "nameField": "name",
     "metadata": [
       {
         "label": "Name",
