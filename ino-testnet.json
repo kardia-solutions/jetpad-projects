@@ -27,6 +27,7 @@
     "inoType": 0,
     "imageField": "image",
     "nameField": "name",
+    "externalURLField": "external_url",
     "metadata": [
       {
         "label": "Name",
