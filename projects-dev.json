@@ -117,7 +117,7 @@
     "idoContract": "",
     "offerTokenAddress": "",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "20000",
+    "initialMarketCap": "56000",
     "initialTokenCirculation": "266666.666667",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmVsUsSgeo7vN67N8vAgVS2zWM2eUdT9tmg55fwMEgR8N8"
