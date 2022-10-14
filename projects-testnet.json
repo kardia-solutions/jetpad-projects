@@ -24,6 +24,7 @@
     "initialTokenCirculation": "75000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu",
-    "poolType": "membership"
+    "poolType": "membership",
+    "refundable": true
   }
 ]
