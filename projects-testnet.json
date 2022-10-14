@@ -26,5 +26,31 @@
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu",
     "poolType": "membership",
     "refundable": true
+  },
+  {
+    "name": "Public pools",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/ameta.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta.png",
+    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta_small.png",
+    "id": "1",
+    "description": "123",
+    "totalRaise": "500",
+    "totalOffering": "400",
+    "descriptionHTML":
+      "123",
+    "snapshotStartTime": 0,
+    "snapshotEndTime": 0,
+    "startTime": 1665718560,
+    "endTime": 1665719400,
+    "harvestTime": 1665719400,
+    "idoContract": "0xd5F9452AA12196683828f4Ee21300F1873aB83Bf",
+    "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "initialMarketCap": "135000",
+    "initialTokenCirculation": "75000000",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu",
+    "poolType": "public",
+    "depositFee": 2
   }
 ]
