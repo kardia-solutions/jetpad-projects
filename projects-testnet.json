@@ -1,177 +1,29 @@
 [
   {
-    "name": "Aboat Entertainment",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
-    "id": "2",
-    "description":
-      "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
-    "totalRaise": "150000",
-    "totalOffering": "75000000",
-    "descriptionHTML":
-      "<p class='my-[12px]'>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul class='list-disc list-inside'><li>Integrated monetization (reward system) for creators and consumers</li><li>Staking-based subscription model</li><li>Creator NFTs to sell different content rights at different content stages</li><li>NFT Marketplace</li><li>Dual reward system to make it possible for creators to submit their own tokens as rewards</li><li>Creator Ranking System to incentivize the discovery of newcomers</li><li>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</li><li>Entertainment Platforms like Talkaboat, our Podcast Platform</li></ul><p class='my-[12px]'>The first product of Aboat Entertainment is a podcast platform called Talkaboat, which is in development for more than a year now. Just recently we successfully started the alpha test on KardiaChain Testnet to ensure a seamless start on Mainnet. We also released the alpha of our mobile app on Google Play Store and Apple App Store to bring you the listening and earning experience wherever you are.</p><p>You can check the technical roadmap <a href='https://github.com/orgs/Talkaboat/projects/8'>here</a> which is regularly updated.</p><p>As for the token, we decided to set a relatively high maximum amount of 1,000,000,000,000 to make the reward system feel psychologically more rewarding.</p><p>40% of these tokens will be minted over the next 30 years from our staking system.</p><p>For more information about our token and it&rsquo;s tokenomics you can visit <a href='https://docs.aboat-entertainment.com/aboat-token/the-token'>our document</a>.</p>",
-    "snapshotStartTime": 1661400843,
-    "snapshotEndTime": 1661400856,
-    "startTime": 1661412000,
-    "endTime": 1661412900,
-    "harvestTime": 1661413200,
-    "idoContract": "0x253b4Ebe58eDd01956e9aD24f2BBF179b114b10F",
-    "offerTokenAddress": "0x85B5de5a36375f923f4Ae83d87Bfc8cbd61FD72F",
-    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
-    "isVoting": false,
-    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr"
-  },
-  {
-    "name": "IDO with vesting",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
-    "id": "3",
-    "description":
-      "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
-    "totalRaise": "150000",
-    "totalOffering": "75000000",
-    "descriptionHTML":
-      "<p class='my-[12px]'>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul class='list-disc list-inside'><li>Integrated monetization (reward system) for creators and consumers</li><li>Staking-based subscription model</li><li>Creator NFTs to sell different content rights at different content stages</li><li>NFT Marketplace</li><li>Dual reward system to make it possible for creators to submit their own tokens as rewards</li><li>Creator Ranking System to incentivize the discovery of newcomers</li><li>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</li><li>Entertainment Platforms like Talkaboat, our Podcast Platform</li></ul><p class='my-[12px]'>The first product of Aboat Entertainment is a podcast platform called Talkaboat, which is in development for more than a year now. Just recently we successfully started the alpha test on KardiaChain Testnet to ensure a seamless start on Mainnet. We also released the alpha of our mobile app on Google Play Store and Apple App Store to bring you the listening and earning experience wherever you are.</p><p>You can check the technical roadmap <a href='https://github.com/orgs/Talkaboat/projects/8'>here</a> which is regularly updated.</p><p>As for the token, we decided to set a relatively high maximum amount of 1,000,000,000,000 to make the reward system feel psychologically more rewarding.</p><p>40% of these tokens will be minted over the next 30 years from our staking system.</p><p>For more information about our token and it&rsquo;s tokenomics you can visit <a href='https://docs.aboat-entertainment.com/aboat-token/the-token'>our document</a>.</p>",
-    "snapshotStartTime": 1662957185,
-    "snapshotEndTime": 1662957203,
-    "startTime": 1662955800,
-    "endTime": 1662970200,
-    "harvestTime": 1662970200,
-    "idoContract": "0x47A5f04A95E7df9eC51889c41F3e4c8710315BcF",
-    "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
-    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
-    "isVoting": false,
-    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
-    "withVesting": true,
-    "vesting": "In 12 months",
-    "vestingSchedules": [
-      {
-        "vestingTime": "1662973800",
-        "vestingAllocation": "5000"
-      },
-      {
-        "vestingTime": "1662974400",
-        "vestingAllocation": "3000"
-      },
-      {
-        "vestingTime": "1662975000",
-        "vestingAllocation": "2000"
-      }
-    ]
-  },
-  {
-    "name": "Normal IDO",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
-    "id": "4",
-    "description":
-      "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
-    "totalRaise": "5000",
-    "totalOffering": "10000",
-    "descriptionHTML":
-      "<p class='my-[12px]'>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul class='list-disc list-inside'><li>Integrated monetization (reward system) for creators and consumers</li><li>Staking-based subscription model</li><li>Creator NFTs to sell different content rights at different content stages</li><li>NFT Marketplace</li><li>Dual reward system to make it possible for creators to submit their own tokens as rewards</li><li>Creator Ranking System to incentivize the discovery of newcomers</li><li>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</li><li>Entertainment Platforms like Talkaboat, our Podcast Platform</li></ul><p class='my-[12px]'>The first product of Aboat Entertainment is a podcast platform called Talkaboat, which is in development for more than a year now. Just recently we successfully started the alpha test on KardiaChain Testnet to ensure a seamless start on Mainnet. We also released the alpha of our mobile app on Google Play Store and Apple App Store to bring you the listening and earning experience wherever you are.</p><p>You can check the technical roadmap <a href='https://github.com/orgs/Talkaboat/projects/8'>here</a> which is regularly updated.</p><p>As for the token, we decided to set a relatively high maximum amount of 1,000,000,000,000 to make the reward system feel psychologically more rewarding.</p><p>40% of these tokens will be minted over the next 30 years from our staking system.</p><p>For more information about our token and it&rsquo;s tokenomics you can visit <a href='https://docs.aboat-entertainment.com/aboat-token/the-token'>our document</a>.</p>",
-    "snapshotStartTime": 1662957185,
-    "snapshotEndTime": 1662957203,
-    "startTime": 1663041000,
-    "endTime": 1663044600,
-    "harvestTime": 1663044600,
-    "idoContract": "0xA35de297154506520D8E8c7C52c7146f3b57ec48",
-    "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
-    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
-    "isVoting": false,
-    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
-    "withVesting": false
-  },
-  {
-    "name": "IDO with vesting and refund",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
-    "id": "5",
-    "description":
-      "Aboat Entertainment is connecting the web3/blockchain space with online entertainment products. This is to make the web3 more accessible to the mainstream while giving creators and consumers new ways of monetization in a fun and safe environment",
-    "totalRaise": "5",
-    "totalOffering": "10",
-    "descriptionHTML":
-      "<p class='my-[12px]'>With Aboat Entertainment we aim to revolutionize the Entertainment Market and make it more accessible for newcomers. On the same note we want to bring creators and their communities a bit Closer, by bringing new and unique monetization possibilities for both sides, the creator and the consumer. Another Topic for us is to create a safe environment for Crypto-Newbies to explore the many possibilities Blockchain can offer without them to have to worry about scam or the entry barrier into blockchain. We do this by implementing gamification in our infrastructure to incentivize users to explore features and content creators while providing feedback.</p><p>Core features:</p><ul class='list-disc list-inside'><li>Integrated monetization (reward system) for creators and consumers</li><li>Staking-based subscription model</li><li>Creator NFTs to sell different content rights at different content stages</li><li>NFT Marketplace</li><li>Dual reward system to make it possible for creators to submit their own tokens as rewards</li><li>Creator Ranking System to incentivize the discovery of newcomers</li><li>Quest-System to incentivize the discovery further and help crypto newbies get a hang of web3 features</li><li>Entertainment Platforms like Talkaboat, our Podcast Platform</li></ul><p class='my-[12px]'>The first product of Aboat Entertainment is a podcast platform called Talkaboat, which is in development for more than a year now. Just recently we successfully started the alpha test on KardiaChain Testnet to ensure a seamless start on Mainnet. We also released the alpha of our mobile app on Google Play Store and Apple App Store to bring you the listening and earning experience wherever you are.</p><p>You can check the technical roadmap <a href='https://github.com/orgs/Talkaboat/projects/8'>here</a> which is regularly updated.</p><p>As for the token, we decided to set a relatively high maximum amount of 1,000,000,000,000 to make the reward system feel psychologically more rewarding.</p><p>40% of these tokens will be minted over the next 30 years from our staking system.</p><p>For more information about our token and it&rsquo;s tokenomics you can visit <a href='https://docs.aboat-entertainment.com/aboat-token/the-token'>our document</a>.</p>",
-    "snapshotStartTime": 1662957185,
-    "snapshotEndTime": 1662957203,
-    "startTime": 1663042680,
-    "endTime": 1663043400,
-    "harvestTime": 1663043400,
-    "idoContract": "0xd2FC2b7540f3104156A1d6361e4d934a8Cd64Eb3",
-    "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
-    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
-    "isVoting": false,
-    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
-    "withVesting": true,
-    "vesting": "In 12 months",
-    "vestingSchedules": [
-      {
-        "vestingTime": "1663043500",
-        "vestingAllocation": "5000"
-      },
-      {
-        "vestingTime": "1663043700",
-        "vestingAllocation": "5000"
-      }
-    ]
-  },
-  {
-    "name": "AMETA",
+    "name": "Refundable pools",
     "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/ameta.png",
     "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta.png",
     "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta_small.png",
-    "id": "6",
-    "description": "Ameta is a farming blockchain-based game created by a strong DEV team from Alphaway who have been experienced in creating multiple successful traditional games. Players will be able to participate in exciting activities such as cleaning up the old farm, building a new farm to grow crops, raising livestock as well as unlocking buildings and other upgrades.",
-    "totalRaise": "12500000",
-    "totalOffering": "9090909",
-    "descriptionHTML":
-      "<p class='my-[12px]'>AMETA &ndash; Gateway to farming metaverse</p><p class='my-[12px]'>Ameta is a farming blockchain-based game created by a strong DEV team from Alphaway who have been experienced in creating multiple successful traditional games. Players will be able to participate in exciting activities such as cleaning up the old farm, building a new farm to grow crops, raising livestock as well as unlocking buildings and other upgrades.</p><p class='my-[12px]'>With a unique combination of attractive elements, task systems, and items of the traditional games and blockchain-based game platform, Ameta is confident in bringing a blend of real life and a virtual world for all. This is home for all gamers to connect and make friends through our jam-packed activities in game.</p><p class='my-[12px]'>Key features:</p><ul class='list-disc list-inside'><li>Free to play</li><li>Inclusive GameFi and SocialFi metaverse</li><li>Exciting gameplay</li><li>Virtual Reality</li><li>Socialization</li><li>Personalization</li><li>Create to earn</li></ul><p>&nbsp;</p><p>Product overview:</p><ul class='list-disc list-inside'><li>Experience the metaverse world from every dimension including farming, fishing, trading, renting, PVE co-op, Fun PVP events.</li><li>Fishing rods NFTs ecosystem</li><li>Real-time simulation (weather, seasons)</li><li>Customize personal character, mood, and energy</li><li>NFT tools</li><li>NFT skins and rewards</li><li>NFT rewards</li></ul><p>&nbsp;</p><p>To encourage traditional players to join and benefit from blockchain, AMETA Tokenomics focuses on solving 2 main problems:</p><ul><li>Remove all technical barriers for traditional users to own APLUS tokens.</li><li>Buy NFT items directly from fiat money.</li><li>Token Name: Ameta Token</li><li>Ticker: APLUS</li><li>Total Supply: 1.000.000.000</li></ul><p>&nbsp;</p><p>AMETA aims to deploy APLUS token on multi-chain which includes: Kardiachain, BNB Chain &amp; OKC with the support of Multichain Protocol to help users have the easiest cross-chain interactions. Among project partners and backers such names as AWS, Telesign, KAI, ONUS, OKC, Pinksale, LuxPaD, Gagarin etc.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
-    "snapshotStartTime": 1662957185,
-    "snapshotEndTime": 1662957203,
-    "startTime": 1664524800,
-    "endTime": 1664528400,
-    "harvestTime": 1664530200,
-    "idoContract": "0x0E7771101E485A70b254eb7e0c6e7602871707be",
-    "offerTokenAddress": "0x4C0b3a14E6Cdd45Aac3d287969336EA7a765d20a",
-    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
-    "isVoting": false,
-    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu"
-  },
-  {
-    "name": "Public pools",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/ameta.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta.png",
-    "thumbnail": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ameta_small.png",
-    "id": "7",
+    "id": "1",
     "description": "123",
     "totalRaise": "100",
-    "totalOffering": "400",
+    "totalOffering": "1000",
     "descriptionHTML":
       "123",
     "snapshotStartTime": 0,
     "snapshotEndTime": 0,
-    "startTime": 1665464716,
-    "endTime": 1665465000,
-    "harvestTime": 1665465000,
-    "idoContract": "0x5B3c20a24a2Dc87f605FF6bf52740D6d7AD0F7aD",
+    "startTime": 1665717600,
+    "endTime": 1665718500,
+    "harvestTime": 1665718500,
+    "refundStartTime": 1665718500,
+    "refundEndTime": 1665719400,
+    "idoContract": "0xd5F9452AA12196683828f4Ee21300F1873aB83Bf",
     "offerTokenAddress": "0x1110A87c7664e819fca35B9B0f6d31f64aC78963",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
     "initialMarketCap": "135000",
     "initialTokenCirculation": "75000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmSKnwyqM2sbUFi7zKm4vNqJq3pZrkdEVNWhgC77L8a5Nu",
-    "poolType": "public",
-    "depositFee": 2
+    "poolType": "membership"
   }
 ]
