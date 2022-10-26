@@ -11,13 +11,13 @@
     "totalOffering": "10000",
     "descriptionHTML":
       "123",
-    "snapshotStartTime": 1662957185,
+    "snapshotStartTime": 1666776600,
     "snapshotEndTime": 1662957203,
-    "startTime": 1665053460,
-    "endTime": 1665053940,
-    "harvestTime": 1665053940,
-    "inoContract": "0x58EDF441e7D20137F604a2F34BA6274bc7AFc86A",
-    "nftContract": "0x266c475e7953df5cec54A4777fEee1456e245070",
+    "startTime": 1666773900,
+    "endTime": 1666777500,
+    "harvestTime": 1666777500,
+    "inoContract": "0xcE8d57db9b37c45b80901E137d9F264D07aF5D6e",
+    "nftContract": "0xF5F5ad7e17Ad8E191e99B1059b66D0F235B8cE7D",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
     "initialMarketCap": "135000",
     "initialTokenCirculation": "75000000",
@@ -33,6 +33,7 @@
         "label": "Name",
         "field": "name"
       }
-    ]
+    ],
+    "buySchedule": [1666777320,1666777140,1666776960,1666776780,1666776600]
   }
 ]
