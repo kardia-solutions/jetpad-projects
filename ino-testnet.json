@@ -1,26 +1,22 @@
 [
   {
-    "name": "Test INO",
-    "avatar": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/logo/aboat-entertainment.png",
-    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/aboat-entertainment.png",
+    "name": "INO Membership Pool",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
     "box": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ino-box.png",
     "id": "1",
     "description":
       "123",
-    "totalRaise": "5000",
-    "totalOffering": "10000",
     "descriptionHTML":
       "123",
-    "snapshotStartTime": 1666776600,
-    "snapshotEndTime": 1662957203,
-    "startTime": 1666865700,
-    "endTime": 1666867200,
-    "harvestTime": 1666867200,
-    "inoContract": "0x3F6e1C4cf2e36050c8A6cf0992642E5cE10A7dbE",
-    "nftContract": "0x6d3036e337D901ad0f3E0911A64E03dc97b24490",
+    "snapshotStartTime": 1662957185,
+    "snapshotEndTime": 1666840201,
+    "startTime": 1667376000,
+    "endTime": 1667386800,
+    "harvestTime": 1667386800,
+    "inoContract": "0xfD6eb853650b38aBC62a6e38172ED25D358aFA35",
+    "nftContract": "0x2f6E46f9ad15fE6EB9552EfE8F06f27E64fc475c",
     "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
-    "initialMarketCap": "135000",
-    "initialTokenCirculation": "75000000",
     "isVoting": false,
     "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
     "withVesting": false,
@@ -34,6 +30,39 @@
         "field": "name"
       }
     ],
-    "buySchedule": [1666866900,1666866600,1666866300,1666866000,1666865700]
+    "buySchedule": [1667383200, 1667381400, 1667379600, 1667377800, 1667376000]
+  },
+  {
+    "name": "INO Public Pool",
+    "avatar": "https://raw.githubusercontent.com/kardia-solutions/kaidex-v3-tokens/master/token-logos/0xE9caC5d99375d02Fb506bE890011B2F57fC614E1.png",
+    "banner": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/kdx.png",
+    "box": "https://raw.githubusercontent.com/kardia-solutions/jetpad-projects/master/banner/ino-box.png",
+    "id": "2",
+    "description":
+      "123",
+    "descriptionHTML":
+      "123",
+    "snapshotStartTime": 1662957185,
+    "snapshotEndTime": 1666840201,
+    "startTime": 1667376000,
+    "endTime": 1667386800,
+    "harvestTime": 1667386800,
+    "inoContract": "0x5A6d4683CF812daaB75C342EC9D89BAb2F7Da6D3",
+    "nftContract": "0x2c253221ec0D80c3E2Fe77f279a1A5D3F0Bad835",
+    "paymentTokenAddress": "0x0000000000000000000000000000000000000000",
+    "isVoting": false,
+    "votingURL": "https://kaisnapshot.com/#/kdx.kai/proposal/QmR9TDUuDSe7dBScgofevg8nz6JDvrpyFx2Fcc4imda5Lr",
+    "withVesting": false,
+    "inoType": 1,
+    "imageField": "image",
+    "nameField": "name",
+    "externalURLField": "external_url",
+    "metadata": [
+      {
+        "label": "Name",
+        "field": "name"
+      }
+    ],
+    "buySchedule": [1667386800]
   }
 ]
